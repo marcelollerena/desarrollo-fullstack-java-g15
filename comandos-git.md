@@ -12,3 +12,9 @@
 - git merge
 - git rebase
 - git cherry pick
+
+- git checkout
+- git checkout -b
+- git branch
+- git log
+- git log --oneline
